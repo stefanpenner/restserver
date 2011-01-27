@@ -1,0 +1,5 @@
+*.war
+*.class
+.DS_Store
+WEB-INF/*
+META-INF/*
